@@ -2,7 +2,7 @@
 - 👀 I’m interested in lua , python and c++
 - 🌱 I’m currently learning html
 - 💞️ I’m looking to collaborate on lua
-- 📫 How to reach me you can ask me in github
+- 📫 How to reach me you can ask me in github pull requects
 
 <!---
 AbhinavPadhi/AbhinavPadhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
